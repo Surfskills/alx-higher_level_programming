@@ -1,7 +1,8 @@
 #!/usr/bin/python3
-def multiple_returns(sentence):
-    if not sentence:
-        my_tuple = 0, "None"
+def max_integer(my_list=[]):
+    if not my_list:
+        return          # default value = None
     else:
-        my_tuple = len(sentence), sentence[0]
-    return my_tuple
+        my_list.sort()
+        largest = my_list.pop()
+        return largest
