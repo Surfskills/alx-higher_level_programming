@@ -40,12 +40,3 @@ Python function that prints the numbers from 1 to 100, but replaces multiples of
 13-insert_number.c 	
 A function in C that inserts a number into a sorted singly linked list
 lists.h 	header file for the C program above
-
-100-print_tebahpla.py 	
-Python script that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase
-
-101-remove_char_at.py 	
-Python script that creates a copy of the string, removing the character at the position n
-
-102-magic_calculation.py 	
-Python function created from a bytecode
