@@ -23,14 +23,14 @@ Complete this script to print "Welcome to Holberton School!"
 #!/usr/bin/python3
 str1 = "Holberton"
 str2 = "School"
-# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
+Write your code here
 print(f"Welcome to {str1}!")
 
 7-edges.py
 Complete this source code
 #!/usr/bin/python3
 word = "Holberton"
-# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
+Write your code here
 print(f"First 3 letters: {word_first_3}")
 print(f"Last 2 letters: {word_last_2}")
 print(f"Middle word: {middle_word}")
@@ -40,7 +40,7 @@ Complete this source code to print object-oriented programming with Python, foll
 #!/usr/bin/python3
 str = "Python is an interpreted, interactive, object-oriented programming\
  language that combines remarkable power with very clear syntax"
-# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
+Write your code here
 print(str)
 
 9-easter_egg.py
