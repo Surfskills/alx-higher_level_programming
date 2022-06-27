@@ -37,8 +37,8 @@ A function that prints a square with the character #.
     if size is a float and is less than 0, raise a TypeError exception with the message size must be an integer
     
 5-text_indentation.py
-
 A function that prints a text with 2 new lines after each of these characters: ., ? and :
+    
     Prototype: def text_indentation(text):
     text must be a string, otherwise raise a TypeError exception with the message text must be a string
     There should be no space at the beginning or at the end of each printed line
@@ -70,6 +70,7 @@ A function that multiplies 2 matrices:
 A function that multiplies 2 matrices by using the module NumPy
 
 Install: pip3 install numpy==1.15.0
+    
     Prototype: def lazy_matrix_mul(m_a, m_b):
     Test cases should be the same as 100-matrix_mul but with new exception type/message
 
