@@ -4,6 +4,6 @@
  console.log('No argument');
 }else if (l === 3) {
     console.log('Argument found');
-} else {
+}else {
  console.log('Arguments found');
 }
