@@ -1,9 +1,9 @@
 #!/usr/bin/node
-let count = process.argv.length;
-if (count === 2){
-    console.log('No argument');
-}   else if (count === 3){
-    console.log('Argument found');
-}   else{
-    console.log('Arguments found');
+let l = process.argv.length;
+  if (l === 2) {
+  console.log('No argument');
+} else if (l === 3) {
+  console.log('Argument found');
+} else {
+  console.log('Arguments found');
 }
