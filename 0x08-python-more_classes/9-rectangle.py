@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 9-rectangle.py
-# Muendo>
 """Defines a Rectangle class."""
 
 
