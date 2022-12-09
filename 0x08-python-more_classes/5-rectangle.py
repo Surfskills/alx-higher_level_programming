@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 5-rectangle.py
-# Muendo @gmail.com>
 """Defines a Rectangle class."""
 
 
