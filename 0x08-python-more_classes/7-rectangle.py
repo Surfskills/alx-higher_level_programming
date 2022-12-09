@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 7-rectangle.py
-# ZMUENDO>
 """Defines a Rectangle class."""
 
 
